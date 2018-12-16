@@ -6,3 +6,4 @@
 * [Monkey dataset from Kaggle](https://www.kaggle.com/slothkong/10-monkey-species)
 * A Neural Algorithm of Artistic Style: [arXiv:1508.06576](https://arxiv.org/abs/1508.06576)
 * [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
+* Vince's post on style transfer using Torch (not pyTorch): [TorchDeepArt](https://vincecr0ft.github.io/TorchDeepArt.html)
