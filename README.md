@@ -1,5 +1,7 @@
 # Read list 
 
+[![Join the chat at https://gitter.im/societegenevoisedonnees/FiltersStylesDomains](https://badges.gitter.im/societegenevoisedonnees/FiltersStylesDomains.svg)](https://gitter.im/societegenevoisedonnees/FiltersStylesDomains?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 * [visualizing parts of convolutional neural networks using keras and cats](https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59)
 * [Keras documentation](https://keras.io/)
